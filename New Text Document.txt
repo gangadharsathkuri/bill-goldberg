@@ -1,0 +1,28 @@
+Imagine instead of buying your own computers and servers to run apps or store data, you rent powerful computers from Microsoft through the internet. That's what Azure does.
+
+🧰 Main Services in Azure Cloud:
+Virtual Machines: Rent computers in the cloud.
+
+Storage: Save files, databases, or backups online.
+
+Databases: Run SQL or NoSQL databases.
+
+Web Apps: Host websites and mobile apps.
+
+AI & Machine Learning: Use pre-built AI tools.
+
+DevOps & CI/CD: Automate code building and deployment.
+
+Networking: Connect systems securely (e.g., VPNs, load balancers).
+
+🏢 Used By:
+Small startups to big enterprises like Adobe, BMW, and Coca-Cola.
+
+🔐 Benefits:
+Scalable: Pay only for what you use.
+
+Reliable: High uptime and backups.
+
+Secure: Data protection and compliance features.
+
+Would you like a comparison of Azure with other clouds like AWS or Google Cloud.
